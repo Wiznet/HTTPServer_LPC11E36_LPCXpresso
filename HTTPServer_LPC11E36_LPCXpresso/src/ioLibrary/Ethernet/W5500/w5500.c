@@ -5,6 +5,10 @@
 //! \version 1.0.2
 //! \date 2013/10/21
 //! \par  Revision history
+//!       <2015/02/05> Notice
+//!        The version history is not updated after this point.
+//!        Download the latest version directly from GitHub. Please visit the our GitHub repository for ioLibrary.
+//!        >> https://github.com/Wiznet/ioLibrary_Driver
 //!       <2014/05/01> V1.0.2
 //!         1. Implicit type casting -> Explicit type casting. Refer to M20140501
 //!            Fixed the problem on porting into under 32bit MCU
